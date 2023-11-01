@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RecyclerView_2</string>
+    <string-array name="food_pic">
+        <item>@drawable/af</item>
+        <item>@drawable/bf</item>
+        <item>@drawable/cf</item>
+        <item>@drawable/ff</item>
+        <item>@drawable/gf</item>
+
+    </string-array>
+
+    <string-array name="food_name">
+        <item>鐵蛋</item>
+        <item>玉米</item>
+        <item>小籠包</item>
+        <item>涼麵</item>
+        <item>魯肉飯</item>
+
+    </string-array>
+
+    <integer-array  name="food_price">
+        <item>67</item>
+        <item>54</item>
+        <item>89</item>
+        <item>123</item>
+        <item>45</item>
+
+    </integer-array>-array>
+
+
+</resources>
